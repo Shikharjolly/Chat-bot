@@ -1,0 +1,20 @@
+{
+  "name": "project-3-3140",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "DevStart": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC", 
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "description": ""
+}
